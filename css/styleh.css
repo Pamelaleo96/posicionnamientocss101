@@ -1,0 +1,21 @@
+div {
+    display: block;
+}
+
+#box_1 { 
+    position: absolute;
+    background: #ee3e64;
+	top: 0;
+    right:20px;	
+    bottom: 0;
+    left: 0;
+}
+
+#box_2 { 
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 80%;
+    background: #b7d84b;
+}
